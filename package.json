@@ -3,7 +3,11 @@
     "@trigger.dev/sdk": "^3.3.7"
   },
   "devDependencies": {
-    "@trigger.dev/build": "^3.3.7"
+    "@trigger.dev/build": "^3.3.7",
+    "ai": "^4.0.22",
+    "defu": "^6.1.4",
+    "esbuild": "^0.24.2",
+    "ts-essentials": "^10.0.4"
   },
   "scripts": {
     "build": "tsc",
