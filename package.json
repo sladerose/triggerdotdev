@@ -4,5 +4,9 @@
   },
   "devDependencies": {
     "@trigger.dev/build": "^3.3.7"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/example.js"
   }
 }
